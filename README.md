@@ -7,7 +7,7 @@
 
 <!-- - 👯 I’m collaborating on [Alakazam](http://onealakazam.com) -->
 
-- 👨‍💻 All of my projects are available at [https://colbychittenden.github.io](https://colbychittenden.github.io)
+- 👨‍💻 All of my projects are available at [https://colbster937.dev](https://colbster937.dev)
 
 - 📫 How to reach me **[colbychittenden@gmail.com](mailto:colbychittenden@gmail.com)**
 
