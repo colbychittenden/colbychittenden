@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://colbster937.dev](https://colbster937.dev)
 
-- 📫 How to reach me **[colbychittenden@gmail.com](mailto:colbychittenden@gmail.com)**
+- 📫 How to reach me **[colbychittenden@gmail.com](mailto:colbster937@colbster937.dev)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
